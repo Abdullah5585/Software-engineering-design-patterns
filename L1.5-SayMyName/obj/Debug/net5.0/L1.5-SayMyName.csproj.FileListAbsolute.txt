@@ -1,0 +1,16 @@
+G:\programming Lap\441101-2122-lab-1\L1.5-SayMyName\bin\Debug\net5.0\L1.5-SayMyName.exe
+G:\programming Lap\441101-2122-lab-1\L1.5-SayMyName\bin\Debug\net5.0\L1.5-SayMyName.deps.json
+G:\programming Lap\441101-2122-lab-1\L1.5-SayMyName\bin\Debug\net5.0\L1.5-SayMyName.runtimeconfig.json
+G:\programming Lap\441101-2122-lab-1\L1.5-SayMyName\bin\Debug\net5.0\L1.5-SayMyName.runtimeconfig.dev.json
+G:\programming Lap\441101-2122-lab-1\L1.5-SayMyName\bin\Debug\net5.0\L1.5-SayMyName.dll
+G:\programming Lap\441101-2122-lab-1\L1.5-SayMyName\bin\Debug\net5.0\ref\L1.5-SayMyName.dll
+G:\programming Lap\441101-2122-lab-1\L1.5-SayMyName\bin\Debug\net5.0\L1.5-SayMyName.pdb
+G:\programming Lap\441101-2122-lab-1\L1.5-SayMyName\obj\Debug\net5.0\L1.5-SayMyName.csproj.AssemblyReference.cache
+G:\programming Lap\441101-2122-lab-1\L1.5-SayMyName\obj\Debug\net5.0\L1.5-SayMyName.GeneratedMSBuildEditorConfig.editorconfig
+G:\programming Lap\441101-2122-lab-1\L1.5-SayMyName\obj\Debug\net5.0\L1.5-SayMyName.AssemblyInfoInputs.cache
+G:\programming Lap\441101-2122-lab-1\L1.5-SayMyName\obj\Debug\net5.0\L1.5-SayMyName.AssemblyInfo.cs
+G:\programming Lap\441101-2122-lab-1\L1.5-SayMyName\obj\Debug\net5.0\L1.5-SayMyName.csproj.CoreCompileInputs.cache
+G:\programming Lap\441101-2122-lab-1\L1.5-SayMyName\obj\Debug\net5.0\L1.5-SayMyName.dll
+G:\programming Lap\441101-2122-lab-1\L1.5-SayMyName\obj\Debug\net5.0\ref\L1.5-SayMyName.dll
+G:\programming Lap\441101-2122-lab-1\L1.5-SayMyName\obj\Debug\net5.0\L1.5-SayMyName.pdb
+G:\programming Lap\441101-2122-lab-1\L1.5-SayMyName\obj\Debug\net5.0\L1.5-SayMyName.genruntimeconfig.cache

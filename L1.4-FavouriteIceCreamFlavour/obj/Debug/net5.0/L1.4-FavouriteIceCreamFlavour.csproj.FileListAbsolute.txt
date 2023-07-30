@@ -1,0 +1,16 @@
+G:\programming Lap\441101-2122-lab-1\L1.4-FavouriteIceCreamFlavour\bin\Debug\net5.0\L1.4-FavouriteIceCreamFlavour.exe
+G:\programming Lap\441101-2122-lab-1\L1.4-FavouriteIceCreamFlavour\bin\Debug\net5.0\L1.4-FavouriteIceCreamFlavour.deps.json
+G:\programming Lap\441101-2122-lab-1\L1.4-FavouriteIceCreamFlavour\bin\Debug\net5.0\L1.4-FavouriteIceCreamFlavour.runtimeconfig.json
+G:\programming Lap\441101-2122-lab-1\L1.4-FavouriteIceCreamFlavour\bin\Debug\net5.0\L1.4-FavouriteIceCreamFlavour.runtimeconfig.dev.json
+G:\programming Lap\441101-2122-lab-1\L1.4-FavouriteIceCreamFlavour\bin\Debug\net5.0\L1.4-FavouriteIceCreamFlavour.dll
+G:\programming Lap\441101-2122-lab-1\L1.4-FavouriteIceCreamFlavour\bin\Debug\net5.0\ref\L1.4-FavouriteIceCreamFlavour.dll
+G:\programming Lap\441101-2122-lab-1\L1.4-FavouriteIceCreamFlavour\bin\Debug\net5.0\L1.4-FavouriteIceCreamFlavour.pdb
+G:\programming Lap\441101-2122-lab-1\L1.4-FavouriteIceCreamFlavour\obj\Debug\net5.0\L1.4-FavouriteIceCreamFlavour.csproj.AssemblyReference.cache
+G:\programming Lap\441101-2122-lab-1\L1.4-FavouriteIceCreamFlavour\obj\Debug\net5.0\L1.4-FavouriteIceCreamFlavour.GeneratedMSBuildEditorConfig.editorconfig
+G:\programming Lap\441101-2122-lab-1\L1.4-FavouriteIceCreamFlavour\obj\Debug\net5.0\L1.4-FavouriteIceCreamFlavour.AssemblyInfoInputs.cache
+G:\programming Lap\441101-2122-lab-1\L1.4-FavouriteIceCreamFlavour\obj\Debug\net5.0\L1.4-FavouriteIceCreamFlavour.AssemblyInfo.cs
+G:\programming Lap\441101-2122-lab-1\L1.4-FavouriteIceCreamFlavour\obj\Debug\net5.0\L1.4-FavouriteIceCreamFlavour.csproj.CoreCompileInputs.cache
+G:\programming Lap\441101-2122-lab-1\L1.4-FavouriteIceCreamFlavour\obj\Debug\net5.0\L1.4-FavouriteIceCreamFlavour.dll
+G:\programming Lap\441101-2122-lab-1\L1.4-FavouriteIceCreamFlavour\obj\Debug\net5.0\ref\L1.4-FavouriteIceCreamFlavour.dll
+G:\programming Lap\441101-2122-lab-1\L1.4-FavouriteIceCreamFlavour\obj\Debug\net5.0\L1.4-FavouriteIceCreamFlavour.pdb
+G:\programming Lap\441101-2122-lab-1\L1.4-FavouriteIceCreamFlavour\obj\Debug\net5.0\L1.4-FavouriteIceCreamFlavour.genruntimeconfig.cache

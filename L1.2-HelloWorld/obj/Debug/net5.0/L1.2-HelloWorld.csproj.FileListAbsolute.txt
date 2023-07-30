@@ -1,0 +1,16 @@
+G:\programming Lap\441101-2122-lab-1\L1.2-helloWorld\bin\Debug\net5.0\L1.2-HelloWorld.exe
+G:\programming Lap\441101-2122-lab-1\L1.2-helloWorld\bin\Debug\net5.0\L1.2-HelloWorld.deps.json
+G:\programming Lap\441101-2122-lab-1\L1.2-helloWorld\bin\Debug\net5.0\L1.2-HelloWorld.runtimeconfig.json
+G:\programming Lap\441101-2122-lab-1\L1.2-helloWorld\bin\Debug\net5.0\L1.2-HelloWorld.runtimeconfig.dev.json
+G:\programming Lap\441101-2122-lab-1\L1.2-helloWorld\bin\Debug\net5.0\L1.2-HelloWorld.dll
+G:\programming Lap\441101-2122-lab-1\L1.2-helloWorld\bin\Debug\net5.0\ref\L1.2-HelloWorld.dll
+G:\programming Lap\441101-2122-lab-1\L1.2-helloWorld\bin\Debug\net5.0\L1.2-HelloWorld.pdb
+G:\programming Lap\441101-2122-lab-1\L1.2-helloWorld\obj\Debug\net5.0\L1.2-HelloWorld.csproj.AssemblyReference.cache
+G:\programming Lap\441101-2122-lab-1\L1.2-helloWorld\obj\Debug\net5.0\L1.2-HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+G:\programming Lap\441101-2122-lab-1\L1.2-helloWorld\obj\Debug\net5.0\L1.2-HelloWorld.AssemblyInfoInputs.cache
+G:\programming Lap\441101-2122-lab-1\L1.2-helloWorld\obj\Debug\net5.0\L1.2-HelloWorld.AssemblyInfo.cs
+G:\programming Lap\441101-2122-lab-1\L1.2-helloWorld\obj\Debug\net5.0\L1.2-HelloWorld.csproj.CoreCompileInputs.cache
+G:\programming Lap\441101-2122-lab-1\L1.2-helloWorld\obj\Debug\net5.0\L1.2-HelloWorld.dll
+G:\programming Lap\441101-2122-lab-1\L1.2-helloWorld\obj\Debug\net5.0\ref\L1.2-HelloWorld.dll
+G:\programming Lap\441101-2122-lab-1\L1.2-helloWorld\obj\Debug\net5.0\L1.2-HelloWorld.pdb
+G:\programming Lap\441101-2122-lab-1\L1.2-helloWorld\obj\Debug\net5.0\L1.2-HelloWorld.genruntimeconfig.cache

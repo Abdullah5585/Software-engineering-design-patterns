@@ -1,0 +1,16 @@
+G:\programming Lap\441101-2122-lab-1\l1.1-GameOver\bin\Debug\net5.0\practice-lab-1-ATANBORI.exe
+G:\programming Lap\441101-2122-lab-1\l1.1-GameOver\bin\Debug\net5.0\practice-lab-1-ATANBORI.deps.json
+G:\programming Lap\441101-2122-lab-1\l1.1-GameOver\bin\Debug\net5.0\practice-lab-1-ATANBORI.runtimeconfig.json
+G:\programming Lap\441101-2122-lab-1\l1.1-GameOver\bin\Debug\net5.0\practice-lab-1-ATANBORI.runtimeconfig.dev.json
+G:\programming Lap\441101-2122-lab-1\l1.1-GameOver\bin\Debug\net5.0\practice-lab-1-ATANBORI.dll
+G:\programming Lap\441101-2122-lab-1\l1.1-GameOver\bin\Debug\net5.0\ref\practice-lab-1-ATANBORI.dll
+G:\programming Lap\441101-2122-lab-1\l1.1-GameOver\bin\Debug\net5.0\practice-lab-1-ATANBORI.pdb
+G:\programming Lap\441101-2122-lab-1\l1.1-GameOver\obj\Debug\net5.0\practice-lab-1-ATANBORI.csproj.AssemblyReference.cache
+G:\programming Lap\441101-2122-lab-1\l1.1-GameOver\obj\Debug\net5.0\practice-lab-1-ATANBORI.GeneratedMSBuildEditorConfig.editorconfig
+G:\programming Lap\441101-2122-lab-1\l1.1-GameOver\obj\Debug\net5.0\practice-lab-1-ATANBORI.AssemblyInfoInputs.cache
+G:\programming Lap\441101-2122-lab-1\l1.1-GameOver\obj\Debug\net5.0\practice-lab-1-ATANBORI.AssemblyInfo.cs
+G:\programming Lap\441101-2122-lab-1\l1.1-GameOver\obj\Debug\net5.0\practice-lab-1-ATANBORI.csproj.CoreCompileInputs.cache
+G:\programming Lap\441101-2122-lab-1\l1.1-GameOver\obj\Debug\net5.0\practice-lab-1-ATANBORI.dll
+G:\programming Lap\441101-2122-lab-1\l1.1-GameOver\obj\Debug\net5.0\ref\practice-lab-1-ATANBORI.dll
+G:\programming Lap\441101-2122-lab-1\l1.1-GameOver\obj\Debug\net5.0\practice-lab-1-ATANBORI.pdb
+G:\programming Lap\441101-2122-lab-1\l1.1-GameOver\obj\Debug\net5.0\practice-lab-1-ATANBORI.genruntimeconfig.cache

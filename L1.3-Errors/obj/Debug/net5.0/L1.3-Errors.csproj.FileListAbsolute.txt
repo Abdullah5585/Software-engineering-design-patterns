@@ -1,0 +1,16 @@
+G:\programming Lap\441101-2122-lab-1\L1.3-Errors\obj\Debug\net5.0\L1.3-Errors.csproj.AssemblyReference.cache
+G:\programming Lap\441101-2122-lab-1\L1.3-Errors\obj\Debug\net5.0\L1.3-Errors.GeneratedMSBuildEditorConfig.editorconfig
+G:\programming Lap\441101-2122-lab-1\L1.3-Errors\obj\Debug\net5.0\L1.3-Errors.AssemblyInfoInputs.cache
+G:\programming Lap\441101-2122-lab-1\L1.3-Errors\obj\Debug\net5.0\L1.3-Errors.AssemblyInfo.cs
+G:\programming Lap\441101-2122-lab-1\L1.3-Errors\obj\Debug\net5.0\L1.3-Errors.csproj.CoreCompileInputs.cache
+G:\programming Lap\441101-2122-lab-1\L1.3-Errors\bin\Debug\net5.0\L1.3-Errors.exe
+G:\programming Lap\441101-2122-lab-1\L1.3-Errors\bin\Debug\net5.0\L1.3-Errors.deps.json
+G:\programming Lap\441101-2122-lab-1\L1.3-Errors\bin\Debug\net5.0\L1.3-Errors.runtimeconfig.json
+G:\programming Lap\441101-2122-lab-1\L1.3-Errors\bin\Debug\net5.0\L1.3-Errors.runtimeconfig.dev.json
+G:\programming Lap\441101-2122-lab-1\L1.3-Errors\bin\Debug\net5.0\L1.3-Errors.dll
+G:\programming Lap\441101-2122-lab-1\L1.3-Errors\bin\Debug\net5.0\ref\L1.3-Errors.dll
+G:\programming Lap\441101-2122-lab-1\L1.3-Errors\bin\Debug\net5.0\L1.3-Errors.pdb
+G:\programming Lap\441101-2122-lab-1\L1.3-Errors\obj\Debug\net5.0\L1.3-Errors.dll
+G:\programming Lap\441101-2122-lab-1\L1.3-Errors\obj\Debug\net5.0\ref\L1.3-Errors.dll
+G:\programming Lap\441101-2122-lab-1\L1.3-Errors\obj\Debug\net5.0\L1.3-Errors.pdb
+G:\programming Lap\441101-2122-lab-1\L1.3-Errors\obj\Debug\net5.0\L1.3-Errors.genruntimeconfig.cache
